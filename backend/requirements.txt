@@ -11,6 +11,7 @@ alpha_vantage
 pandas
 numpy
 scikit-learn
+hmmlearn
 statsmodels
 redis
 celery
